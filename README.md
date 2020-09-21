@@ -14,7 +14,7 @@
 ---
 ## Programme
 
-* `Cours_01`: [Regex](https://github.com/gabays/NumPat_1/tree/master/DistRead_1_1)
+* `Cours_01`: [Regex](https://github.com/gabays/DistRead_1/tree/master/DistRead_1_1)
 
 ---
 ### Cite this repository
