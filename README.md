@@ -5,7 +5,7 @@
 
 ---
 * CS: 32M7131
-* Salle: Uni Bastions 240
+* Salle: Uni Bastions B214
 * Horaire: mardi 12-14
 * GitHub: https://github.com/gabays/DistRead_1
 * Moodle: https://moodle.unige.ch/course/view.php?id=8256
