@@ -148,7 +148,7 @@ sobrecot que afolet al cosolat.
 cant donem la letra de Riom a S. Bonome.
 7. Item IX £ per los borzes de Paris.
 8 Item XXV £ que ac P. Albanels de part P. Bonome a.lo
-jorn de la Saint Peire de feureir 22 février 1274 n.s.
+jorn de la Saint Peire de feureir 22 fevrier 1274 n.s.
 ```
 
 Dans ce registre consulaire de Montferrand [[source](http://elec.enc.sorbonne.fr/montferrand/C1274-1275)], sélectionnez:
