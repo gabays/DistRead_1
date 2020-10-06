@@ -67,8 +67,8 @@ Allez sur le site https://regex101.com, qui permet de tester des expressions ré
 Tentez de capturer tous les mentions de siècles, peu importe le format dans le texte suivant:
 
 ```console
-Victor Hugo est né au XIXème siècle, Jean Racine au
-XVIIème et Rablelais au 16ème.
+Victor Hugo est né au XIXeme siècle, Jean Racine au
+XVIIeme et Rabelais au 16eme.
 ```
 
 
@@ -81,7 +81,7 @@ Un motif (en anglais _pattern_) est une recherche de caractères assortis de met
 En 1666, il a passé le pas de 66 portes, n'est-ce pas?
 ```
 
-Si nous recherchons `pas` que se passe-t-il? et `[pas]`? 
+Si nous recherchons `pas` que se passe-t-il? et `[pas]`?
 
 ### Exercice 2
 
@@ -124,13 +124,13 @@ Quelques cas spécifiques sont les suivants:
 
 ---
 ## Les ancres
-Les ancres permettent de préciser la position des caractères. Ainsi dans l'exemple d'une exclamation de rire: 
+Les ancres permettent de préciser la position des caractères. Ainsi dans l'exemple d'une exclamation de rire:
 
 ```console
 ah ah ah
 ```
 * `^` sélectionne les mots en début de ligne (`^ah` sélectionne le premier _ah_)
-* `$` est le symétrique de `^` et sélectionne la fin de ligne (`ah$` sélectionne le premier _ah_)
+* `$` est le symétrique de `^` et sélectionne la fin de ligne (`ah$` sélectionne le dernier _ah_)
 * `\b` permet de sélectionner les début et fin de mots (`\bah\b` sélectionne tous les _ah_)
 
 ---
@@ -204,7 +204,7 @@ sobrecot que afolet al cosolat.
 cant donem la letra de Riom a S. Bonome.
 7. Item IX £ per los borzes de Paris.
 8 Item XXV £ que ac P. Albanels de part P. Bonome a.lo
-jorn de la Saint Peire de feureir 22 février 1274 n.s.
+jorn de la Saint Peire de feureir 22 fevrier 1274 n.s.
 ```
 
 * Remettre les points d'abréviation pour les devises (_s_, _d_) quand ils manquent.
