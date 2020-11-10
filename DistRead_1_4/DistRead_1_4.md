@@ -60,6 +60,5 @@ kraken -i img/10.jpg /content/results/ocr_result.txt binarize segment ocr -m /co
 ```
 soit (le texte en majuscule doit êtr remplacé par des noms réels):
 ```bash
-kraken -i IMAGE.EXTENSION SORTIE.EXTENSION binarize segment ocr -m MODELE.mlmodel
+kraken -i CHEMIN/IMAGE.EXTENSION CHEMIN/SORTIE.EXTENSION binarize segment ocr -m CHEMIN/MODELE.mlmodel
 ```
-
