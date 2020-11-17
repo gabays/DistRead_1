@@ -21,16 +21,20 @@ cd DistRead_1/DistRead_1_5
 pip install virtualenv
 virtualenv env
 ```
-4. Installer les packages nécessaires
+4. Activer l'environnement virtuel
 ```console
-pip install -r requirements
+source env/bin/activate
 ```
-5. Lancez le notebook
+5. Installer les packages nécessaires
+```console
+pip install -r requirements.txt
+```
+6. Lancez le notebook
 ```python
 jupyter notebook
 ```
-6. Pour arrêter Jupyter notebook: cmd+C
-7. Pour fermer l'environnement virtuel
+7. Pour arrêter Jupyter notebook: cmd+C
+8. Pour fermer l'environnement virtuel
 ```
 deactivate
 ```
