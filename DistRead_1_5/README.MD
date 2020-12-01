@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```python
 jupyter notebook
 ```
-7. Pour arrêter Jupyter notebook: cmd+C ou Ctrl+C
+7. Pour arrêter Jupyter notebook: Ctrl+C
 8. Pour fermer l'environnement virtuel
 ```
 deactivate
