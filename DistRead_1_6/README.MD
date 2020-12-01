@@ -48,7 +48,7 @@ Le _notebook_ est préparé pour fonctionner avec le service en ligne _Colab_ de
 
 2. Sélectionnez l'onglet `GitHub`
 
-3. Copiez le lien suivant: `https://github.com/gabays/Cours_Edition_Geneve/blob/master/Cours_13/Cours_13_exo/Cours_13_exo_1.ipynb`
+3. Copiez le lien suivant: `https://github.com/gabays/DistRead_1/blob/master/DistRead_1_6/DistRead_1_6.ipynb`
 
 <img src="images/colab.png" width="70%">
 
